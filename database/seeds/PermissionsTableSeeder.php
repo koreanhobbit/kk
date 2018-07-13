@@ -379,43 +379,43 @@ class PermissionsTableSeeder extends Seeder
             ),
             45 => 
             array (
-                'id' => 46,
+                'id' => 51,
                 'key' => 'browse_response_messages',
                 'table_name' => 'response_messages',
-                'created_at' => '2018-07-12 12:00:58',
-                'updated_at' => '2018-07-12 12:00:58',
+                'created_at' => '2018-07-12 15:02:10',
+                'updated_at' => '2018-07-12 15:02:10',
             ),
             46 => 
             array (
-                'id' => 47,
+                'id' => 52,
                 'key' => 'read_response_messages',
                 'table_name' => 'response_messages',
-                'created_at' => '2018-07-12 12:00:58',
-                'updated_at' => '2018-07-12 12:00:58',
+                'created_at' => '2018-07-12 15:02:10',
+                'updated_at' => '2018-07-12 15:02:10',
             ),
             47 => 
             array (
-                'id' => 48,
+                'id' => 53,
                 'key' => 'edit_response_messages',
                 'table_name' => 'response_messages',
-                'created_at' => '2018-07-12 12:00:58',
-                'updated_at' => '2018-07-12 12:00:58',
+                'created_at' => '2018-07-12 15:02:10',
+                'updated_at' => '2018-07-12 15:02:10',
             ),
             48 => 
             array (
-                'id' => 49,
+                'id' => 54,
                 'key' => 'add_response_messages',
                 'table_name' => 'response_messages',
-                'created_at' => '2018-07-12 12:00:58',
-                'updated_at' => '2018-07-12 12:00:58',
+                'created_at' => '2018-07-12 15:02:10',
+                'updated_at' => '2018-07-12 15:02:10',
             ),
             49 => 
             array (
-                'id' => 50,
+                'id' => 55,
                 'key' => 'delete_response_messages',
                 'table_name' => 'response_messages',
-                'created_at' => '2018-07-12 12:00:58',
-                'updated_at' => '2018-07-12 12:00:58',
+                'created_at' => '2018-07-12 15:02:10',
+                'updated_at' => '2018-07-12 15:02:10',
             ),
         ));
         

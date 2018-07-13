@@ -12,3 +12,6 @@
 	@include('frontend.layout.footer')
 @endsection
 
+@section('messenger')
+	@include('frontend.layout.messenger')
+@endsection

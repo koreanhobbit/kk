@@ -145,7 +145,7 @@ class DataTypesTableSeeder extends Seeder
             ),
             7 => 
             array (
-                'id' => 9,
+                'id' => 10,
                 'name' => 'response_messages',
                 'slug' => 'response-messages',
                 'display_name_singular' => 'Response Message',
@@ -158,8 +158,8 @@ class DataTypesTableSeeder extends Seeder
                 'generate_permissions' => 1,
                 'server_side' => 0,
                 'details' => '{"order_column":null,"order_display_column":null}',
-                'created_at' => '2018-07-12 12:00:58',
-                'updated_at' => '2018-07-12 12:00:58',
+                'created_at' => '2018-07-12 15:02:10',
+                'updated_at' => '2018-07-12 15:02:10',
             ),
         ));
         

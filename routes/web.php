@@ -25,6 +25,6 @@ Route::group(['prefix' => LaravelLocalization::setLocale()], function()
 
 
 
-Route::group(['prefix' => 'kioskoreamanage'], function () {
+Route::group(['prefix' => 'managekioskorea'], function () {
     Voyager::routes();
 });

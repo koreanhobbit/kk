@@ -244,27 +244,27 @@ class PermissionRoleTableSeeder extends Seeder
             ),
             45 => 
             array (
-                'permission_id' => 46,
+                'permission_id' => 51,
                 'role_id' => 1,
             ),
             46 => 
             array (
-                'permission_id' => 47,
+                'permission_id' => 52,
                 'role_id' => 1,
             ),
             47 => 
             array (
-                'permission_id' => 48,
+                'permission_id' => 53,
                 'role_id' => 1,
             ),
             48 => 
             array (
-                'permission_id' => 49,
+                'permission_id' => 54,
                 'role_id' => 1,
             ),
             49 => 
             array (
-                'permission_id' => 50,
+                'permission_id' => 55,
                 'role_id' => 1,
             ),
         ));
