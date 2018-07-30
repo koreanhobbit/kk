@@ -25,8 +25,8 @@
 		//inside how to menu
 		//
 		//contact
-		't_contact' => 'Cara menghubungi kami',
-		't_contact_1' => 'Akun representative kami selalu online pada website dan juga dapat di hubungi melalui semua sosial media kami. Pastikan untuk me-like Facebook Page kami dan mem-follow akun Instagram kami untuk mendapatkan info mengenai layanan dan produk terbaru di',
+		't_ht_contact' => 'Cara menghubungi kami',
+		't_ht_contact_1' => 'Akun representative kami selalu online pada website dan juga dapat di hubungi melalui semua sosial media kami. Pastikan untuk me-like Facebook Page kami dan mem-follow akun Instagram kami untuk mendapatkan info mengenai layanan dan produk terbaru di',
 
 		//inside how to menu
 		//

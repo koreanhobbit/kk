@@ -23,6 +23,13 @@ Route::group(['prefix' => LaravelLocalization::setLocale()], function()
 
 });
 
+Route::group(['prefix' => 'shop'], function() {
+
+
+	//shop index
+	Route::get('/', 'ShopMainPageController@index')->name('shop.mainpage.index');
+});
+
 
 
 Route::group(['prefix' => 'managekioskorea'], function () {
