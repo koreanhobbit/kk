@@ -61,6 +61,13 @@
 		't_payment_1' => 'Method',
 		't_payment_2' => 'Availability',
 
+		//inside shoes size chart
+		//
+		'women_shoes_size_ti' => 'Women Shoes Size Chart',
+		'women_shoes_size_ti_in' => 'Women Shoes',
+
+		'men_shoes_size_ti' => 'Men Shoes Size Chart',
+		'men_shoes_size_ti_in' => 'Men Shoes',
 
 		//inside FAQ menu
 		//

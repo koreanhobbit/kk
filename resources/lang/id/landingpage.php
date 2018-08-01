@@ -34,6 +34,14 @@
 		't_reseller' => 'BAGAIMANA MENJADI RESELLER',
 		't_reseller_1' => 'KiosKorea juga memberikan kesempatan kepada para reseller yang ingin membeli dalam jumlah banyak. Silahkan hubungi kami di',
 
+		//inside shoes size chart
+		//
+		'women_shoes_size_ti' => 'Ukuran Sepatu Wanita',
+		'women_shoes_size_ti_in' => 'Sepatu Wanita',
+
+		'men_shoes_size_ti' => 'Ukuran Sepatu Pria',
+		'men_shoes_size_ti_in' => 'Sepatu Pria',
+
 		//inside shipping menu
 		//
 		//first title
