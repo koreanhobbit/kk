@@ -56,7 +56,7 @@
 			<p>@lang('landingpage.t_ht_contact_1') <span><a href="#contact">@lang('landingpage.nav_contact')</a></span></p>
 		</div>
 
-		{{-- <button class="accordion">Women Shoes Size Chart</button>
+		<button class="accordion">Women Shoes Size Chart</button>
 		<div class="panel">
 			<div class="table-wrapper">
 				<h3>Women Shoes</h3>
@@ -219,7 +219,7 @@
 					</tr>
 				</table>
 			</div>
-		</div> --}}
+		</div>
 		<button class="accordion">@lang('landingpage.t_reseller')</button>
 		<div class="panel">
 			<p>@lang('landingpage.t_reseller_1') <span><a href="#contact">@lang('landingpage.nav_contact')</a></span></p>
